@@ -1,0 +1,10 @@
+server:
+  port: 7048
+  servlet:
+    session:
+      cookie:
+        name: SESSIONSPRINGINTERVIEW
+#服务的名称
+spring:
+  application:
+    name: interview-spring
